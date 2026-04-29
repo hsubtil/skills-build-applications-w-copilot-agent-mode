@@ -1,0 +1,16 @@
+.app-shell {
+  max-width: 1180px;
+}
+
+.app-hero {
+  background: linear-gradient(120deg, #f4f9ff 0%, #eef7ef 52%, #fff7e8 100%);
+}
+
+.navbar .nav-link.active {
+  background-color: #0d6efd;
+  color: #fff;
+}
+
+.modal {
+  background: rgba(14, 19, 24, 0.35);
+}
